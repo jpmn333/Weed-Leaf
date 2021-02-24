@@ -15,6 +15,6 @@
 
 ### BetterDiscord
 
-1. Download the theme file [here](https://downgit.github.io/#/home?url=https://github.com/jpmn333/Weed-Leaf/blob/main/Weed_Leaf.theme.css).
+1. Download the theme file [here](https://downgit.github.io/#/home?url=https://github.com/jpmn333/Weed-Leaf/blob/main/Weed-Leaf.theme.css).
 2. Open your BetterDiscord themes folder.
 3. Drag the file you downloaded into the folder. Ensure there isn't a copy identifier (eg `Name.theme(1).css`) at the end of the filename.
