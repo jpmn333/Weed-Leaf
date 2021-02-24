@@ -3,8 +3,8 @@
 # Overview
 
 <p align="center">
-  <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/u1I4AAb.png">
-  <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/ErFLmiJ.png">
+  <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/PqW9uJx.png">
+  <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/29CorxQ.png">
 <p align="center">
 
 <p align="center">A simple discord theme which makes the app more accommodating to people with dyslexia.</p>
