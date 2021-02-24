@@ -1,0 +1,9 @@
+{
+    "name": "Weed-Leaf",
+    "description": "Don't worry about a thing, every little thing is gonna be alright.",
+    "version": "1",
+    "author": "Trator de Jacare #3219",
+    "theme": "Weed-Leaf.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
