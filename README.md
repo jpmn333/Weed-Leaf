@@ -7,7 +7,7 @@
   <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/29CorxQ.png">
 <p align="center">
 
-<p align="center">A simple discord theme which makes the app more accommodating to people with dyslexia.</p>
+<p align="center">Weed lovers Discord Theme.</p>
 
 ---
 
