@@ -2467,6 +2467,13 @@
     background-color: rgba(38, 171, 45, 0.201) !important;
 }
 
+.children-19S4PO {
+    background: rgba(38, 171, 45, 0.5);
+    border-radius: 20px;
+}
+.children-19S4PO:after {
+    background: rgba(38, 171, 45, 0.5); !important;
+
 #app-mount .content-1o0f9g{
     background-color: green;
 }
