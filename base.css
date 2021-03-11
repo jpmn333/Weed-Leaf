@@ -2475,7 +2475,16 @@
 .children-19S4PO:after {
     background: rgba(38, 171, 45, 0.5) !important;
 }
-
+.cooldownWrapper-3joyF, .da-cooldownWrapper{
+    color: transparent !important;
+}
+.cooldownWrapper-3joyF, .da-cooldownWrapper:after{
+    content:"Chill out man";
+    color: white;
+}
+.anchor-3Z-8Bb{
+    color: white;
+}
 #app-mount .content-1o0f9g{
     background-color: green;
 }
