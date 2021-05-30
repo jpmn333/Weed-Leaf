@@ -2488,3 +2488,28 @@
 #app-mount .content-1o0f9g{
     background-color: green;
 }
+.platform-win .scroller-1Bvpku, .expandedFolderBackground-1cujaW, .expandedFolderIconWrapper-Huv7rA{
+ background: url(https://wallpapercave.com/wp/wp2490596.jpg);
+}
+.circleIconButton-1QV--U{
+  color: #C7AC00;
+  background-color: rgba(38, 171, 45, 1)
+}
+.circleIconButton-1QV--U:hover{
+  color: #E1BE00;
+ background-color: rgba(38, 171, 45, 0.9)
+}
+svg.homeIcon-FuNwkv{
+    color:transparent;
+}
+.homeIcon-FuNwkv{
+  background-image: url(https://i.imgur.com/gRciPGy.png);
+      background-size: cover;
+    background-position: center;
+}
+#bd-pub-button{
+  background-color: rgba(0, 0, 0, 0.4);
+}
+#bd-pub-button:hover{
+  background-color: rgba(0, 0, 0, 0.6);
+}
